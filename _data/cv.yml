@@ -2,31 +2,81 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Reza Arabpour
+    - name: Email
+      value: arabpour@mcmaster.ca
+    - name: Location
+      value: Toronto, ON, Canada
     - name: Languages
-      value: English, German
+      value: English, Persian (Farsi)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc in Computational Science and Engineering
+      institution: McMaster University, Hamilton, ON, Canada
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Focus on machine learning and computational finance
+        - Advanced coursework in algorithms and data science
+        - Research in deep learning applications for quantitative finance
+    # Add your Bachelor's degree and other education here
+    # - title: Bachelor's Degree
+    #   institution: Your University
+    #   year: YYYY
+    #   description:
+    #     - Description of your undergraduate studies
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Faculty Affiliate Researcher
+      institution: Vector Institute for Artificial Intelligence, Toronto, ON
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Conducting research at the intersection of AI and finance
+        - Collaborating on cutting-edge machine learning projects
+        - Contributing to the development of advanced AI algorithms
+    # Add more positions here following the same format
+    # - title: Previous Position
+    #   institution: Company/Organization
+    #   year: YYYY - YYYY
+    #   description:
+    #     - Key responsibilities and achievements
+
+- title: Research Interests
+  type: list
+  contents:
+    - Deep Learning & Neural Networks
+    - Machine Learning Applications in Finance
+    - Quantitative Finance & Algorithmic Trading
+    - Fine-tuning Algorithms & Transfer Learning
+    - Computational Finance & Risk Management
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python
+        - R
+        - MATLAB
+        - SQL
+        - C++
+    - title: Machine Learning & AI
+      items:
+        - TensorFlow & PyTorch
+        - Scikit-learn
+        - Deep Learning
+        - Natural Language Processing
+        - Computer Vision
+    - title: Finance & Quantitative Analysis
+      items:
+        - Financial Modeling
+        - Risk Management
+        - Algorithmic Trading
+        - Time Series Analysis
+        - Portfolio Optimization
 
 - title: Experience
   type: time_table
@@ -95,3 +145,21 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: "LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs"
+      year: 2025
+      description:
+        - "Published on arXiv:2507.01806"
+        - "Accepted to ICML 2025 Workshop on Efficient Systems for Foundation Models"
+        - "Novel CPU-efficient approach to LLM fine-tuning using meta-learning"
+        - "Co-authored with Haitz Sáez de Ocáriz Borde and Anastasis Kratsios"
+    - title: "Low-dimensional approximations of the conditional law of Volterra processes: a non-positive curvature approach"
+      year: 2024
+      description:
+        - "Published on arXiv:2405.20094"
+        - "Mathematical finance and deep learning intersection"
+        - "Novel dimension reduction technique for Volterra processes"
+        - "Co-authored with John Armstrong, Luca Galimberti, Anastasis Kratsios, and Giulia Livieri"

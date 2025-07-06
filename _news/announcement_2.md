@@ -1,18 +1,23 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Completed MSc at McMaster University
+date: 2023-06-01 12:00:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Successfully completed my Master of Science in Computational Science and Engineering at McMaster University. My thesis focused on the application of machine learning techniques in quantitative finance, with particular emphasis on developing advanced algorithms for financial modeling and risk assessment.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+This milestone represents a significant step in my academic journey, combining theoretical foundations in computational science with practical applications in financial technology. The program provided me with deep expertise in:
 
-#### Hipster list
+- **Advanced Machine Learning**: Neural networks, deep learning architectures, and optimization algorithms
+- **Computational Finance**: Quantitative modeling, risk management, and algorithmic trading strategies  
+- **Data Science**: Statistical analysis, time series forecasting, and big data processing
+- **Software Engineering**: High-performance computing and scalable system design
+
+Looking forward to applying these skills in my research at Vector Institute!
 
 <ul>
     <li>brunch</li>
