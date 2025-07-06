@@ -28,30 +28,31 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Faculty Affiliate Researcher at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/) and hold an MSc in Computational Science and Engineering from [McMaster University](https://www.mcmaster.ca/). My research focuses on the intersection of **deep learning**, **machine learning**, and **quantitative finance**, with particular expertise in efficient model adaptation and mathematical finance applications.
+I'm a Computational Science & Engineering M.Sc. candidate at [McMaster University](https://www.mcmaster.ca/) (GPA 3.9/4.0, full scholarship) with a passion for the intersection of deep learning and problem solving. I am currently working on **geometric deep learning in finance**. As a graduate student at McMaster and Vector Institute, I've built and optimized **hypernetworks** that approximate complex stochastic processes, parallelizing them across multi-GPU clusters to slash compute times by over **60×**.
 
-My work spans theoretical foundations and practical implementations, including **CPU-efficient fine-tuning methods for large language models** and **low-dimensional approximations for complex stochastic processes** in mathematical finance. I am passionate about making advanced AI techniques more accessible and developing novel approaches to challenging problems in computational finance.
+I'm currently innovating in **Parameter-Efficient Fine-Tuning (PEFT)** to make large-scale models faster, more accessible/sustainable, and cheaper to run. My academic journey began with a B.Sc. in Applied Mathematics from the University of Tehran, where I earned a **Bronze medal in ACM ICPC West Asia**, and I have since explored a broad spectrum of machine learning methodologies, from architecture design to optimization and evaluation.
+
+As **co-founder and quantitative researcher**, I engineered evolutionary-algorithm-driven trading strategies and conducted extensive Monte Carlo backtesting to maximize risk-adjusted returns. I've equally valued both industry and academic experiences, **TA'd three graduate-level** machine learning and finance-related courses at McMaster, supported over **500 undergraduate students** in Python, and organized **bi-weekly CSE seminars** that bridged cutting-edge theory with real-world applications.
+
+I'm always keen to connect with fellow researchers and practitioners in deep learning and finance.
 
 ## Research Interests
-- **Efficient AI Systems**: CPU-efficient training and fine-tuning methods for large language models
-- **Mathematical Finance**: Stochastic processes, Volterra processes, and volatility modeling
-- **Deep Learning**: Neural network architectures, meta-learning, and hypernetworks  
-- **Computational Finance**: Quantitative modeling and algorithmic approaches
-- **Dimension Reduction**: Manifold learning and non-positive curvature approaches
-- **Transfer Learning**: Parameter-efficient adaptation and LoRA methods
+- **Geometric Deep Learning**: Hypernetworks and manifold-based approaches for finance
+- **Parameter-Efficient Fine-Tuning**: Making LLMs more accessible and sustainable
+- **Computational Finance**: Stochastic processes and quantitative modeling
+- **Machine Learning**: From theoretical foundations to practical applications
+- **High-Performance Computing**: Multi-GPU optimization and parallel computing
 
-## Recent Publications
-- **"LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs"** (2025) - *arXiv:2507.01806* | **Accepted to ICML 2025 Workshop**
-- **"Low-dimensional approximations of the conditional law of Volterra processes: a non-positive curvature approach"** (2024) - *arXiv:2405.20094*
+## Recent Highlights
+- **ICML 2025 Workshop**: Accepted paper on CPU-efficient LLM fine-tuning
+- **60× Speedup**: Achieved through multi-GPU hypernetwork optimization
+- **Vector Institute**: Faculty Affiliate Researcher position
+- **Academic Excellence**: 3.9/4.0 GPA with full scholarship at McMaster
+- **Competition Success**: Bronze medal in ACM ICPC West Asia
+
+## Publications
+- **"LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs"** (2025) - *ICML Workshop*
+- **"Low-dimensional approximations of the conditional law of Volterra processes: a non-positive curvature approach"** (2024) - *arXiv*
 
 ## Current Work
 As a Faculty Affiliate at Vector Institute, I collaborate on cutting-edge research projects that bridge theoretical advances with practical applications, making AI more accessible and developing novel approaches to financial modeling challenges.
-
----
-
-**💡 Content Management Tips:**
-- Update your profile picture by replacing `assets/img/prof_pic.jpg`
-- Add news items in `_news/` folder (use date format: YYYY-MM-DD-title.md)
-- Update publications in `_bibliography/papers.bib` 
-- Add new blog posts in `_posts/` folder
-- Showcase projects in `_projects/` folder

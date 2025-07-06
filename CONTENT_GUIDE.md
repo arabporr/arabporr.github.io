@@ -115,9 +115,6 @@ linkedin_username: yourusername
 scholar_userid: yourscholarid
 ```
 
-### Repository Showcase
-Update `_data/repositories.yml` to highlight specific GitHub repos.
-
 ## 🚀 Deployment
 
 Your site automatically deploys via GitHub Pages when you push to the main branch. Changes typically appear within 5-10 minutes.

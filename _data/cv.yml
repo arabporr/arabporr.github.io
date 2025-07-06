@@ -15,17 +15,19 @@
   contents:
     - title: MSc in Computational Science and Engineering
       institution: McMaster University, Hamilton, ON, Canada
-      year: 2023
+      year: 2023 - Present
       description:
-        - Focus on machine learning and computational finance
-        - Advanced coursework in algorithms and data science
-        - Research in deep learning applications for quantitative finance
-    # Add your Bachelor's degree and other education here
-    # - title: Bachelor's Degree
-    #   institution: Your University
-    #   year: YYYY
-    #   description:
-    #     - Description of your undergraduate studies
+        - "GPA: 3.9/4.0 (Full Scholarship)"
+        - Focus on geometric deep learning in finance
+        - Research on hypernetworks for stochastic processes
+        - Advanced coursework in machine learning and computational finance
+    - title: BSc in Applied Mathematics
+      institution: University of Tehran, Tehran, Iran
+      year: 2018 - 2022
+      description:
+        - Strong foundation in mathematical modeling and analysis
+        - Bronze medal in ACM ICPC West Asia competition
+        - Specialized in computational methods and algorithms
 
 - title: Experience
   type: time_table
@@ -34,117 +36,65 @@
       institution: Vector Institute for Artificial Intelligence, Toronto, ON
       year: 2024 - Present
       description:
-        - Conducting research at the intersection of AI and finance
-        - Collaborating on cutting-edge machine learning projects
-        - Contributing to the development of advanced AI algorithms
-    # Add more positions here following the same format
-    # - title: Previous Position
-    #   institution: Company/Organization
-    #   year: YYYY - YYYY
-    #   description:
-    #     - Key responsibilities and achievements
+        - Conducting cutting-edge research at the intersection of AI and finance
+        - Developing hypernetworks for complex stochastic process approximation
+        - Collaborating on Parameter-Efficient Fine-Tuning (PEFT) methodologies
+    - title: Co-founder & Quantitative Researcher
+      institution: Fintech Startup
+      year: 2022 - 2023
+      description:
+        - Engineered evolutionary-algorithm-driven trading strategies
+        - Conducted extensive Monte Carlo backtesting for risk-adjusted returns
+        - Built and optimized quantitative models for financial markets
+    - title: Teaching Assistant
+      institution: McMaster University, Hamilton, ON
+      year: 2023 - Present
+      description:
+        - TA for three graduate-level machine learning and finance courses
+        - Supported over 500 undergraduate students in Python programming
+        - Organized bi-weekly CSE seminars bridging theory and applications
 
 - title: Research Interests
   type: list
   contents:
-    - Deep Learning & Neural Networks
+    - Geometric Deep Learning & Hypernetworks
+    - Parameter-Efficient Fine-Tuning (PEFT)
+    - Computational Finance & Stochastic Processes
     - Machine Learning Applications in Finance
-    - Quantitative Finance & Algorithmic Trading
-    - Fine-tuning Algorithms & Transfer Learning
-    - Computational Finance & Risk Management
+    - High-Performance Computing & Multi-GPU Optimization
 
-- title: Skills
+- title: Technical Skills
   type: nested_list
   contents:
     - title: Programming Languages
       items:
-        - Python
+        - Python (Advanced)
         - R
         - MATLAB
         - SQL
         - C++
+        - Julia
     - title: Machine Learning & AI
       items:
-        - TensorFlow & PyTorch
-        - Scikit-learn
+        - PyTorch & TensorFlow
+        - Transformers & PEFT
+        - Hypernetworks
         - Deep Learning
-        - Natural Language Processing
-        - Computer Vision
+        - Neural Architecture Search
+    - title: High-Performance Computing
+      items:
+        - Multi-GPU Programming
+        - CUDA & cuDNN
+        - Distributed Computing
+        - Parallel Algorithms
+        - Performance Optimization
     - title: Finance & Quantitative Analysis
       items:
-        - Financial Modeling
+        - Stochastic Processes
+        - Monte Carlo Methods
         - Risk Management
         - Algorithmic Trading
-        - Time Series Analysis
         - Portfolio Optimization
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
 - title: Publications
   type: time_table
@@ -163,3 +113,33 @@
         - "Mathematical finance and deep learning intersection"
         - "Novel dimension reduction technique for Volterra processes"
         - "Co-authored with John Armstrong, Luca Galimberti, Anastasis Kratsios, and Giulia Livieri"
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Full Scholarship, McMaster University
+        - Academic Excellence Recognition (3.9/4.0 GPA)
+    - year: 2022
+      items:
+        - Bronze Medal, ACM ICPC West Asia Regional Contest
+    - year: 2025
+      items:
+        - ICML Workshop Paper Acceptance
+
+- title: Volunteer Work
+  type: time_table
+  contents:
+    - title: CSE Seminar Organizer
+      institution: McMaster University
+      year: 2023 - Present
+      description:
+        - Organized bi-weekly seminars bridging academic research and industry applications
+        - Coordinated guest speakers from Vector Institute and tech industry
+    - title: Programming Mentor
+      institution: University Community Programs
+      year: 2022 - Present
+      description:
+        - Mentored undergraduate students in Python and machine learning
+        - Supported over 500 students through academic assistance programs
