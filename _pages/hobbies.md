@@ -5,12 +5,6 @@ title: HOBBIES
 description: Personal interests and passions that fuel creativity and balance.
 nav: true
 nav_order: 7
----ut: page
-permalink: /hobbies/
-title: hobbies
-description: Personal interests and passions beyond research.
-nav: true
-nav_order: 7
 ---
 
 ## Personal Interests
