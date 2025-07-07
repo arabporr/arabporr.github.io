@@ -1,84 +1,58 @@
 ---
 layout: page
-title: Volterra Processes & Non-Positive Curvature
-description: Low-dimensional approximations for stochastic volatility using differential geometry
-img: assets/img/3.jpg
+title: Option Pricing with Machine Learning
+description: Classic machine learning approaches for financial derivatives pricing
+img: assets/img/options_ml.jpg
 importance: 2
 category: research
-giscus_comments: true
+github: https://github.com/arabporr/Option_pricing_with_classic_machine_learning
 ---
 
-## Low-dimensional Approximations of Volterra Processes
+## Option Pricing with Classic Machine Learning
 
-This research tackles one of the most challenging problems in mathematical finance: predicting the conditional evolution of Volterra processes with stochastic volatility. Our approach combines **differential geometry** with **deep learning** to overcome the curse of dimensionality inherent in these infinite-dimensional problems.
+This project explores the application of traditional machine learning algorithms to option pricing problems, bridging quantitative finance with modern data science techniques. The work demonstrates how classical ML methods can effectively capture complex market dynamics for accurate derivatives pricing.
 
-### The Challenge
+### Project Overview
 
-Volterra processes are fundamental in modeling:
-- **Stochastic Volatility**: Complex dynamics in financial markets
-- **Memory Effects**: Long-range dependencies in financial time series  
-- **Non-Markovian Behavior**: Path-dependent phenomena in derivatives pricing
+Financial derivatives pricing has traditionally relied on mathematical models like Black-Scholes. This project investigates how machine learning algorithms can enhance or replace these classical approaches, particularly for complex scenarios where traditional models may fall short.
 
-However, their **infinite dimensionality** and **non-smooth nature** make traditional deep learning approaches computationally intractable.
+### Key Features
 
-### Our Two-Step Solution
+- **Multiple ML Algorithms**: Implementation of various classic machine learning techniques
+- **Comparative Analysis**: Systematic comparison with traditional option pricing models
+- **Real Market Data**: Training and validation on actual financial market datasets
+- **Performance Metrics**: Comprehensive evaluation using financial accuracy measures
 
-#### Step 1: Geometric Dimension Reduction
-We develop a **stable dimension reduction technique** that projects the law of Volterra processes onto a **low-dimensional statistical manifold** with **non-positive sectional curvature**. This geometric approach:
+### Technical Implementation
 
-- Preserves essential probabilistic structure
-- Reduces computational complexity dramatically
-- Maintains mathematical rigor through differential geometry
+- **Data Processing**: Market data cleaning, feature engineering, and preprocessing
+- **Model Training**: Implementation of regression and ensemble methods
+- **Validation Framework**: Time-series cross-validation appropriate for financial data
+- **Risk Analysis**: Assessment of pricing accuracy under different market conditions
 
-#### Step 2: Manifold-Aware Deep Learning
-We introduce a **sequentially deep learning model** specifically tailored to the manifold's geometric properties:
+### Machine Learning Approaches
 
-**Auxiliary Hypernetwork Architecture:**
-- **Dynamic Parameter Updates**: Internal parameters adapt based on temporal dynamics
-- **Non-Stationary Encoding**: Captures time-varying behavior of Volterra processes
-- **Mixture of Experts Interpretation**: Each expert specializes at specific temporal points
+- **Regression Models**: Linear and polynomial regression for baseline pricing
+- **Ensemble Methods**: Random Forest and Gradient Boosting for complex patterns
+- **Feature Engineering**: Technical indicators and market microstructure features
+- **Model Selection**: Systematic evaluation and hyperparameter optimization
 
-### Technical Innovation
+### Applications
 
-#### Hypernetwork Design
-Our auxiliary hypernetwork enables:
-- **Temporal Specialization**: Different network configurations for different time periods
-- **Efficient Approximation**: Achieves rates typically requiring much larger networks
-- **Gating Mechanism**: Intelligent routing in mixture-of-experts framework
+- **European Options**: Standard call and put option pricing
+- **Market Volatility**: Capturing implied volatility dynamics
+- **Risk Management**: Portfolio-level risk assessment and hedging strategies
+- **Backtesting**: Historical performance analysis and strategy validation
 
-#### Mathematical Foundation
-- **Rigorous Geometry**: Non-positive curvature manifolds provide stable approximation guarantees
-- **Convergence Analysis**: Theoretical bounds on approximation quality
-- **Stability Guarantees**: Robust performance under perturbations
+### Technical Stack
 
-### Research Contributions
+- **Languages**: Python, R
+- **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib
+- **Data Sources**: Financial market APIs and historical datasets
+- **Visualization**: Comprehensive plotting for model interpretation
 
-#### Theoretical Advances
-- Novel application of **non-positive curvature geometry** to financial modeling
-- **Convergence rates** for manifold-based approximations
-- **Stability analysis** for dimension reduction in infinite-dimensional settings
+### Research Insights
 
-#### Practical Applications
-- **Derivatives Pricing**: More efficient computation of complex financial instruments
-- **Risk Management**: Better understanding of tail risks in volatile markets
-- **Portfolio Optimization**: Improved modeling of correlation structures
+This work provides valuable insights into the effectiveness of classical machine learning in quantitative finance, demonstrating both the potential and limitations of data-driven approaches in financial modeling.
 
-### Collaborative Research
-
-This work represents a **multi-institutional collaboration** with experts in:
-- **Mathematical Finance** (John Armstrong, Giulia Livieri)
-- **Differential Geometry** (Luca Galimberti)  
-- **Deep Learning Theory** (Anastasis Kratsios)
-
-### Impact and Future Work
-
-Our framework opens new research directions in:
-- **Geometric Deep Learning** for finance
-- **Manifold-based approximation theory**
-- **Hypernetwork applications** in temporal modeling
-
-The combination of **rigorous mathematics** with **practical implementation** makes this work valuable for both theoretical research and real-world financial applications.
-
----
-
-*This research bridges pure mathematics and applied AI, demonstrating how geometric insights can solve challenging problems in computational finance.*
+The project serves as a foundation for understanding how AI techniques can be integrated into traditional financial workflows, bridging academic research with practical industry applications.
