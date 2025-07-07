@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2025-07-03 09:00:00-0400
+title: "Started MSc at McMaster University"
+date: 2023-09-01
 inline: true
 related_posts: false
 ---
 
-New paper accepted to ICML 2025 Workshop: "LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs" - making LLM fine-tuning accessible on standard laptop CPUs!
+Excited to begin my Master's in Computational Science & Engineering at McMaster University with full scholarship! 🎓

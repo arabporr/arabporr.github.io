@@ -106,15 +106,15 @@
       year: 2025 Jul
       description: 
         - "Authors: Reza Arabpour, Haitz Sáez de Ocáriz Borde, Anastasis Kratsios"
-        - "Accepted to ICML 2025 Workshop on Efficient Systems for Foundation Models"
-        - "arXiv:2507.01806"
+        - "Accepted to ICML 2025 Workshop on Efficient Systems for Foundation Models (July 2, 2025)"
+        - "arXiv:2507.01806 (submitted June 30, 2025)"
         
     - title: "Low-dimensional approximations of the conditional law of Volterra processes: a non-positive curvature approach"
       year: 2024 May
       description:
         - "Authors: Reza Arabpour, John Armstrong, Luca Galimberti, Anastasis Kratsios, Giulia Livieri"
-        - "Published in Analysis and Applications"
-        - "arXiv:2405.20094"
+        - "Under review at Analysis and Applications"
+        - "arXiv:2405.20094 (submitted May 30, 2024)"
 
 - title: Certificates
   type: time_table
@@ -207,16 +207,20 @@
         - "ICML 2025 Workshop Acceptance - LoRA Fine-Tuning Without GPUs"
     - year: 2024
       items: 
-        - "Analysis and Applications Journal Publication"
+        - "Fields Institute Mathematical Finance Conference Presentation"
     - year: 2023
       items: 
-        - "McMaster University Full Scholarship for MSc Program"
+        - "McMaster University Full Scholarship for MSc Program (3.9/4.0 GPA)"
     - year: 2022
       items: 
-        - "Bronze Medal - ACM ICPC West Asia Regional Contest"
+        - "Amazon Udacity Scholarship - AWS Machine Learning Foundations"
+        - "Three times Excellent Term Award - University of Tehran"
     - year: 2021
       items: 
         - "2nd Place - Omid Group Business Creation Competition (among 30 participants)"
+    - year: 2018
+      items: 
+        - "Bronze Medal - ACM ICPC West Asia Regional Contest"
 
 - title: Technical Skills
   type: nested_list

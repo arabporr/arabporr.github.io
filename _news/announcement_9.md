@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Started MSc at McMaster University"
-date: 2023-09-01
+title: "Started University Studies"
+date: 2018-09-01
 inline: true
 related_posts: false
 ---
 
-Excited to begin my Master's in Computational Science & Engineering at McMaster University with full scholarship! 🎓
+Started my B.Sc. in Applied Mathematics at the University of Tehran! Beginning my journey in computational mathematics. 📚

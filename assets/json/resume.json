@@ -103,17 +103,17 @@
   "publications": [
     {
       "name": "LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs",
-      "publisher": "arXiv:2507.01806",
-      "releaseDate": "2025",
+      "publisher": "ICML 2025 Workshop on Efficient Systems for Foundation Models",
+      "releaseDate": "2025-07-02",
       "url": "https://arxiv.org/abs/2507.01806",
-      "summary": "Novel CPU-efficient approach to LLM fine-tuning using meta-learning, accepted to ICML 2025 Workshop on Efficient Systems for Foundation Models."
+      "summary": "Novel CPU-efficient approach to LLM fine-tuning using meta-learning. Accepted July 2, 2025. arXiv:2507.01806 (submitted June 30, 2025)."
     },
     {
       "name": "Low-dimensional approximations of the conditional law of Volterra processes: a non-positive curvature approach",
-      "publisher": "Analysis and Applications",
-      "releaseDate": "2024",
+      "publisher": "Under review at Analysis and Applications",
+      "releaseDate": "2024-05-30",
       "url": "https://arxiv.org/abs/2405.20094",
-      "summary": "Published in Analysis and Applications journal. Mathematical finance and deep learning intersection, novel dimension reduction technique for Volterra processes."
+      "summary": "Under review at Analysis and Applications journal. Mathematical finance and deep learning intersection, novel dimension reduction technique for Volterra processes. arXiv:2405.20094 (submitted May 30, 2024)."
     }
   ],
   "skills": [

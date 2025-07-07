@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Paper Accepted to ICML 2025 Workshop"
-date: 2025-07-02
+title: "Bronze Medal in ACM ICPC Contest"
+date: 2022-11-15
 inline: true
 related_posts: false
 ---
 
-Our paper "LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs" has been accepted to the ICML 2025 Workshop on Efficient Systems for Foundation Models! 🎉
+Proud to win Bronze Medal in the ACM ICPC West Asia Regional Contest! 🥉

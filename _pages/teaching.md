@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: TEACHING
 description: Teaching and mentoring activities in AI, machine learning, and computational finance.
 nav: true
 nav_order: 6
@@ -9,19 +9,51 @@ nav_order: 6
 
 ## Teaching Experience
 
-As a Teaching Assistant at McMaster University, I have supported over **500 undergraduate students** across three graduate-level courses, focusing on machine learning and computational finance. My teaching philosophy emphasizes bridging theoretical foundations with practical applications, helping students develop both conceptual understanding and hands-on skills.
+As a Teaching Assistant at McMaster University, I have supported over **500 undergraduate students** across multiple graduate and undergraduate courses, focusing on machine learning, computational finance, and mathematical computation. My teaching philosophy emphasizes bridging theoretical foundations with practical applications, helping students develop both conceptual understanding and hands-on programming skills.
 
 ## Current Teaching Roles
 
-### Teaching Assistant - McMaster University (2023 - Present)
-- **Graduate-level Machine Learning Courses**: Supporting advanced coursework in deep learning, optimization, and AI applications
-- **Computational Finance**: Teaching quantitative methods, stochastic processes, and financial modeling
-- **Python Programming**: Mentoring students in scientific computing, data analysis, and machine learning implementation
+### Graduate Teaching Assistant - McMaster University (2023 - Present)
 
-### CSE Seminar Organizer (2023 - Present)
-- Organize **bi-weekly Computational Science & Engineering seminars**
-- Bridge cutting-edge research with real-world applications
-- Coordinate guest speakers from Vector Institute and industry
+**Graduate-Level Courses:**
+- **MFM 713 - Computational Finance II** (Dr. Anastasis Kratsios)
+  - Numerical solutions to PDEs and SDEs
+  - Exotic and path-dependent options pricing
+  - Free boundary problems for American options
+  
+- **MFM 714 - Topics in Risk Management** (Dr. David Lozinsky)
+  - Credit risk capital and counterparty risk
+  - Risk in retail portfolios
+  - Algorithmic and high-frequency trading (HFT)
+  - Financial technologies and applications
+
+- **MFin 704 - Numerical Methods in Finance** (Dr. Michael Milewski)
+  - Financial data processing pipelines
+  - Data integration from Yahoo Finance API and Bloomberg
+  - Insightful analysis and reliable forecasting methods
+
+**Undergraduate Course:**
+- **Math 1MP3 - Introduction to Mathematical Scientific Computation** (Dr. Erin Clements)
+  - Selected as TA **4 times in a row** due to excellent performance
+  - Python programming and scientific computing
+  - Supporting 500+ students with both instructor and student satisfaction
+
+### CSE Seminar Organizer (Fall 2024)
+- Organized **bi-weekly Computational Science & Engineering seminars**
+- Contacted and invited guest speakers from various fields and universities
+- Planned speaker commute and handled all booking and catering responsibilities
+- Bridged cutting-edge research with real-world applications
+
+### Previous Teaching Experience - University of Tehran (2020-2022)
+
+**Computer Science Courses:**
+- **Data Structures and Algorithms** (Dr. Mohammad Ganjtabesh)
+- **Advanced Programming in C++** (Dr. Hedieh Sajedi)
+- **Introduction to Graph Theory** (Dr. Morteza Mohammad Nouri)
+- **Fundamentals of Computer Science and Programming** (Dr. Zaynab Mousavian)
+
+**Physics Course:**
+- **Fundamentals of Programming** (Dr. Zaynab Mousavian)
 
 ## Areas of Expertise
 
@@ -38,18 +70,26 @@ As a Teaching Assistant at McMaster University, I have supported over **500 unde
 - **Risk Management**: Portfolio optimization and financial derivatives
 
 ### Programming & Tools
-- **Python**: Advanced PyTorch, TensorFlow, scientific computing stack
-- **High-Performance Computing**: CUDA, multi-GPU programming, distributed systems
-- **Financial Tools**: Quantitative libraries, backtesting frameworks
-- **Research Tools**: Jupyter, version control, collaborative research platforms
+- **Python**: Advanced PyTorch, TensorFlow, HuggingFace Transformers
+- **Scientific Computing**: NumPy, SciPy, Pandas, Statsmodels
+- **High-Performance Computing**: Multi-GPU programming, distributed systems
+- **Financial Tools**: Quantitative libraries, Bloomberg API, backtesting frameworks
+- **Development Tools**: Git, Linux servers, Docker, AWS, web scraping
+- **Languages**: C, C++, Python, R, MATLAB, Bash scripting, SQL
 
-## Student Mentoring
+## Student Mentoring & Leadership
 
-I actively mentor students at various levels:
+I actively mentor students at various levels and take on leadership roles:
+
+**Academic Mentoring:**
 - **Graduate Students**: Research methodology and publication strategies
 - **Undergraduate Students**: Python programming and machine learning fundamentals  
 - **Research Collaborators**: Industry-academia collaboration and career development
-- **Academic Transition**: Supporting students entering AI/ML research
+
+**Leadership Experience:**
+- **CSE Seminar Committee** (McMaster University, Fall 2024): Organized bi-weekly seminars
+- **Editorial Board Member** (University of Tehran, 2022): Applied Mathematics section of "Jong-e Riazi" publication
+- **Volunteer Coordinator** (Iranian Hemophilia Association, 2018): Organized fundraising and volunteer activities
 
 ## Available for Collaboration
 
