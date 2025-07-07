@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-hobbies",
-          title: "hobbies",
-          description: "Personal interests and passions beyond research.",
+          title: "HOBBIES",
+          description: "Personal interests and passions that fuel creativity and balance.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/hobbies/";
