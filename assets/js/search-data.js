@@ -102,21 +102,26 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-lora-fine-tuning-without-gpus-has-been-accepted-to-the-icml-2025-workshop-on-efficient-systems-for-foundation-models",
           title: 'Our paper “LoRA Fine-Tuning Without GPUs” has been accepted to the ICML 2025...',
           description: "",
-          section: "News",},{id: "projects-cpu-efficient-llm-fine-tuning",
-          title: 'CPU-Efficient LLM Fine-Tuning',
-          description: "Meta-learning framework for LoRA fine-tuning without GPU requirements",
+          section: "News",},{id: "projects-lora-fine-tuning-without-gpus",
+          title: 'LoRA Fine-Tuning Without GPUs',
+          description: "A CPU-Efficient Meta-Generation Framework for Large Language Models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-volterra-processes-amp-non-positive-curvature",
-          title: 'Volterra Processes &amp;amp; Non-Positive Curvature',
-          description: "Low-dimensional approximations for stochastic volatility using differential geometry",
+            },},{id: "projects-option-pricing-with-machine-learning",
+          title: 'Option Pricing with Machine Learning',
+          description: "Classic machine learning approaches for financial derivatives pricing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-advanced-financial-time-series-modeling",
-          title: 'Advanced Financial Time Series Modeling',
-          description: "Deep learning approaches for financial market prediction and risk assessment",
+            },},{id: "projects-grapevine-leaves-classification",
+          title: 'Grapevine Leaves Classification',
+          description: "Deep learning approach for grape variety identification using Convolutional Neural Networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-rnn-game-theoretic-decision-making",
+          title: 'RNN Game-Theoretic Decision Making',
+          description: "Recurrent Neural Networks applied to strategic decision making in game theory contexts",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
