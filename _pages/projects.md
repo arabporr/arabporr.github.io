@@ -2,10 +2,10 @@
 layout: page
 title: PROJECTS
 permalink: /projects/
-description: Research projects in machine learning, computational finance, and AI applications.
+description: Research projects in machine learning, computational finance, and AI applications, plus entrepreneurial ventures.
 nav: true
 nav_order: 3
-display_categories: [research]
+display_categories: [research, entrepreneurship]
 horizontal: false
 ---
 
