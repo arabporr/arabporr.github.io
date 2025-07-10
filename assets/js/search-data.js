@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "PROJECTS",
-          description: "Research projects in machine learning, computational finance, and AI applications.",
+          description: "Research projects in machine learning, computational finance, and AI applications, plus entrepreneurial ventures.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -107,21 +107,31 @@ ninja.data = [{
           description: "A CPU-Efficient Meta-Generation Framework for Large Language Models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-option-pricing-with-machine-learning",
-          title: 'Option Pricing with Machine Learning',
-          description: "Classic machine learning approaches for financial derivatives pricing",
+            },},{id: "projects-volterra-processes-approximation",
+          title: 'Volterra Processes Approximation',
+          description: "Low-dimensional approximations using non-positive curvature approach for mathematical finance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-grapevine-leaves-classification",
-          title: 'Grapevine Leaves Classification',
-          description: "Deep learning approach for grape variety identification using Convolutional Neural Networks",
+            },},{id: "projects-statistical-arbitrage-trading-system",
+          title: 'Statistical Arbitrage Trading System',
+          description: "Quantitative trading strategies using genetic algorithms and fuzzy logic for FX and gold markets",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-rnn-game-theoretic-decision-making",
-          title: 'RNN Game-Theoretic Decision Making',
-          description: "Recurrent Neural Networks applied to strategic decision making in game theory contexts",
+            },},{id: "projects-geometric-deep-learning-for-time-series",
+          title: 'Geometric Deep Learning for Time Series',
+          description: "Hypernetworks and geometric neural architectures for financial time series modeling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-option-pricing-with-machine-learning",
+          title: 'Option Pricing with Machine Learning',
+          description: "Classic machine learning approaches for financial derivatives pricing and risk management",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-grapevine-leaves-classification",
+          title: 'Grapevine Leaves Classification',
+          description: "Deep learning approach for grape variety identification using Convolutional Neural Networks and computer vision",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
