@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "PROJECTS",
-          description: "Research projects in machine learning, computational finance, and AI applications, plus entrepreneurial ventures.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
