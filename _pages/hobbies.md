@@ -30,4 +30,3 @@ I'm an devoted admirer of classical music, with immense respect for Ludwig van B
 
 ---
 
-*These hobbies provide balance to my academic pursuits and often inspire creative approaches to problem-solving in my research.*

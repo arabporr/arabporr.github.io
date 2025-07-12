@@ -47,57 +47,35 @@ As a Teaching Assistant at McMaster University, I have supported over **500 unde
 ### Previous Teaching Experience - University of Tehran (2020-2022)
 
 **Computer Science Courses:**
-- **Data Structures and Algorithms** (Dr. Mohammad Ganjtabesh)
-- **Advanced Programming in C++** (Dr. Hedieh Sajedi)
-- **Introduction to Graph Theory** (Dr. Morteza Mohammad Nouri)
-- **Fundamentals of Computer Science and Programming** (Dr. Zaynab Mousavian)
-
-**Physics Course:**
-- **Fundamentals of Programming** (Dr. Zaynab Mousavian)
+- **Data Structures and Algorithms**
+- **Advanced Programming in C++** 
+- **Introduction to Graph Theory** 
+- **Fundamentals of Computer Science and Programming** 
 
 ## Areas of Expertise
 
 ### Machine Learning & AI
 - **Geometric Deep Learning**: Hypernetworks and manifold-based approaches
 - **Parameter-Efficient Fine-Tuning (PEFT)**: Making LLMs more accessible and sustainable
-- **High-Performance Computing**: Multi-GPU optimization and parallel algorithms
+- **High-Performance Computing**: Multi-GPU execution and parallel algorithms
 - **Neural Architecture Design**: Advanced architectures for complex problems
 
 ### Computational Finance
-- **Stochastic Processes**: Volterra processes and low-dimensional approximations
+- **Stochastic Processes**: Synthetic data generation and forecasting 
 - **Quantitative Modeling**: Monte Carlo methods and evolutionary algorithms
-- **Algorithmic Trading**: Strategy development and backtesting frameworks
-- **Risk Management**: Portfolio optimization and financial derivatives
+- **Algorithmic Trading**: Strategy development and backtesting 
 
 ### Programming & Tools
 - **Python**: Advanced PyTorch, TensorFlow, HuggingFace Transformers
 - **Scientific Computing**: NumPy, SciPy, Pandas, Statsmodels
-- **High-Performance Computing**: Multi-GPU programming, distributed systems
-- **Financial Tools**: Quantitative libraries, Bloomberg API, backtesting frameworks
 - **Development Tools**: Git, Linux servers, Docker, AWS, web scraping
 - **Languages**: C, C++, Python, R, MATLAB, Bash scripting, SQL
 
-## Student Mentoring & Leadership
+## Leadership Experience
 
-I actively mentor students at various levels and take on leadership roles:
-
-**Academic Mentoring:**
-- **Graduate Students**: Research methodology and publication strategies
-- **Undergraduate Students**: Python programming and machine learning fundamentals  
-- **Research Collaborators**: Industry-academia collaboration and career development
-
-**Leadership Experience:**
 - **CSE Seminar Committee** (McMaster University, Fall 2024): Organized bi-weekly seminars
 - **Editorial Board Member** (University of Tehran, 2022): Applied Mathematics section of "Jong-e Riazi" publication
 - **Volunteer Coordinator** (Iranian Hemophilia Association, 2018): Organized fundraising and volunteer activities
-
-## Available for Collaboration
-
-*I'm available for guest lectures, workshops, and collaborative teaching on:*
-- AI applications in computational finance
-- Parameter-efficient fine-tuning and sustainable AI
-- High-performance computing in machine learning
-- Career development in AI research
 
 ---
 
