@@ -15,14 +15,14 @@ Beyond my research in AI and computational finance, I have several passions that
 
 I'm deeply passionate about coffee culture and the art of brewing. From perfecting espresso shots to exploring pour-over methods, I find joy in every aspect of coffee preparation. I occasionally roast my own beans, experimenting with different profiles to bring out unique flavors. The precision and attention to detail required in coffee brewing mirrors the methodical approach I bring to my research.
 
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/coffee_hobby.jpg" title="Coffee brewing setup" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     My coffee brewing setup - where science meets art.
-</div>
+</div> -->
 
 ### 🥾 Urban Exploration & Hiking
 
