@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:
-
-Sitemap: arabporr.com/sitemap.xml
+Allow: /
+Sitemap: https://arabporr.com/sitemap.xml
