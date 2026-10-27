@@ -1,2 +1,5 @@
-# Force LF line endings, needed for Docker to work on Windows
-*.sh text eol=lf
+# Consistent source line endings on Windows, macOS, and CI.
+* text=auto eol=lf
+*.pdf binary
+*.jpg binary
+*.png binary

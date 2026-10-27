@@ -1,6 +1,14 @@
 {
-  "devDependencies": {
-    "@shopify/prettier-plugin-liquid": "1.4.0",
-    "prettier": "3.1.1"
+  "name": "reza-arabpour-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reza Arabpour — quantitative machine learning and computational finance.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check": "node --check assets/site.js && node scripts/check.mjs"
   }
 }
